@@ -21,3 +21,6 @@ $ curl http://localhost:5000
 {"word":"auxiliary","definition":"helping supporting"}
 ```
 
+Using render template:
+
+![image](https://user-images.githubusercontent.com/567298/102627850-7bcb2780-4151-11eb-872a-bfe57b024528.png)
